@@ -244,7 +244,8 @@ Use city-wise performance insights to prioritize high-conversion locations.
 
 ## Dashboard Preview
 
-![Screenshort]()
+
+![Screenshort](https://github.com/ritik168/Real-Estate-Sales-Market-Performance-Dashboard/blob/main/Screenshot%202025-12-16%20235827.png)
 
 
 ## Project End
