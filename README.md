@@ -5,11 +5,13 @@
 Real Estate Sales & Market Performance Dashboard
 
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 To analyze real estate property data and track sales performance, listing status, pricing trends, agent activity, and days-on-market in order to support better pricing decisions, faster property sales, and improved agent performance.
 
-## Business Problems & Key Insights
+## 📌 Business Problems & Key Insights
+
+
 1️⃣ What is the total number of properties in the dataset?
 
 The dashboard shows 3,000 total properties.
